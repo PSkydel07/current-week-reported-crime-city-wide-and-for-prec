@@ -1,0 +1,1 @@
+This scraper pulls the reported weekly crime listed in the PDFs on the NYPDs crime statistics page. These crimes include murder, robbery, rape, burglary, felony assault, larceny, and motor vehicle theft.
